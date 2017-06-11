@@ -1,0 +1,15 @@
+{
+  "name": "bankingappserver",
+  "version": "1.0.0",
+  "description": "Back end server for hybrid banking app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Atul Sharma",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3"
+  }
+}
