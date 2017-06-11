@@ -4,6 +4,7 @@ var express = require("express");
 var router = express.Router();
 module.exports = router;
 
+//TODO: Remove after Db integration
 var user={
   "userId": "U123",
   "userName": "Jack Jones",
